@@ -93,4 +93,4 @@ If the user enters something that cannot be converted to an integer, the program
 
 ## Author
 
-Created as a Python programming project.
+Created by Hansika Singh.
